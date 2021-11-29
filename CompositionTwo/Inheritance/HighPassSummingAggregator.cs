@@ -9,5 +9,13 @@ namespace Algorithm.Inheritance
     /// </summary>
     public class HighPassSummingAggregator : SummingAggregator
     {
+        public HighPassSummingAggregator(IEnumerable<Measurement> measurements) : base(measurements)
+        {
+        }
+
+        protected override IEnumerable<Measurement> FilterMeasurements(IEnumerable<Measurement> measurements)
+        {
+            return measurements.Where(m => m.X >= 3 && m.Y >= 3);
+        }
     }    
 }

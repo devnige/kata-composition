@@ -1,0 +1,15 @@
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/CompositionTwo.deps.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/CompositionTwo.runtimeconfig.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/CompositionTwo.runtimeconfig.dev.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/CompositionTwo.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/ref/CompositionTwo.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/bin/Debug/net5.0/CompositionTwo.pdb
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.csproj.AssemblyReference.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.AssemblyInfoInputs.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.AssemblyInfo.cs
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.csproj.CoreCompileInputs.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/ref/CompositionTwo.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.pdb
+/Users/Nigel.Quinlan/RiderProjects/Katas/CompositionTwo/CompositionTwo/obj/Debug/net5.0/CompositionTwo.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionTwo", "CompositionTwo\CompositionTwo.csproj", "{62BD3125-3388-4A48-BFE1-2DDD1285B188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionTwoTest", "CompositionTwoTest\CompositionTwoTest.csproj", "{94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BD3125-3388-4A48-BFE1-2DDD1285B188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BD3125-3388-4A48-BFE1-2DDD1285B188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BD3125-3388-4A48-BFE1-2DDD1285B188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BD3125-3388-4A48-BFE1-2DDD1285B188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

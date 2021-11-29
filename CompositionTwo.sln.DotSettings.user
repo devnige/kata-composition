@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cff8a2d6_002D7a23_002D4bd9_002D9f96_002D0a9b20c97bf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SummingAggregation_Produces_Sum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Composition.AggregationTests.SummingAggregation_Produces_Sum&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.SummingAggregation_Produces_Sum&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.AveragingAggregagtor_Produces_Average&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.HighPassSummingAggregator_Applys_Filter&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.LowPassAveragingAggregator_Applys_Filter&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

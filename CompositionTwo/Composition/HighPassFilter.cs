@@ -6,11 +6,14 @@ namespace Algorithm.Composition
 
     /// <summary>
     /// Should filter out measurements with an X or Y that are less than or equal to 2
-    /// You'll need to implement IMeasureFilter to do the job
+    /// You'll need to implement IMeasurementFilter to do the job
     /// </summary>
     /// 
-    public class HighPassFilter 
+    public class HighPassFilter : IMeasurementFilter
     {
-
+        public IEnumerable<Measurement> Filter(IEnumerable<Measurement> measurements)
+        {
+            return measurements.Where(m => m.X >= 3 && m.Y >= 3);
+        }
     }
 }

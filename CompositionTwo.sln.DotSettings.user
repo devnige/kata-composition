@@ -6,5 +6,9 @@
     &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.AveragingAggregagtor_Produces_Average&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.HighPassSummingAggregator_Applys_Filter&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Inheritance.AggregationTests.LowPassAveragingAggregator_Applys_Filter&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Composition.AggregationTests.AveragingAggregagtor_Produces_Average&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Composition.AggregationTests.LowPassAveragingAggregator_Applys_Filter&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Composition.AggregationTests.HighPassSummingAggregator_Applys_Filter&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94DC1272-BFEA-4C0A-AD73-5F3855EE4CBD::net5.0::Algorithm.Tests.Composition.AggregationTests.CustomHighPassSummingAggregator_Applys_Filter&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
